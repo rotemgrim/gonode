@@ -1,6 +1,6 @@
 {
   "name": "typie-go",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "gonode for communication with typie core",
   "main": "./lib/gonode.js",
   "scripts": {
