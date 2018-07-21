@@ -1,7 +1,7 @@
 {
-  "name": "gonode",
-  "version": "0.1.6",
-  "description": "gonode - Go for node.js",
+  "name": "typie-go",
+  "version": "0.1.5",
+  "description": "gonode for communication with typie core",
   "main": "./lib/gonode.js",
   "scripts": {
     "test": "nodeunit test"
